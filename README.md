@@ -30,9 +30,7 @@ Job seekers exploring compensation trends across roles and locations.
 Installation
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/Data-Science-Salary-Dashboard.git
+git clone git@github.com:mahlatselelosa/Data-Science-Salary-Insights-Dashboard.git
 Open the Power BI File:
 The Power BI (.pbix) file can be opened directly in Power BI Desktop.
 
