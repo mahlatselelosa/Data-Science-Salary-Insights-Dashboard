@@ -42,5 +42,5 @@ Collaboration
 Contributions are welcome! Please feel free to fork this repository, make any changes, and submit a pull request. Whether it’s improving the visuals, adding new insights, or optimizing the dashboard design, your contributions are appreciated.
 
 License
-This project is open source and available under the MIT License.
+This project is open source and available under the  GNU GENERAL PUBLIC LICENSE
 
