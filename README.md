@@ -28,9 +28,10 @@ Data Science professionals looking to benchmark salaries.
 Employers assessing competitive salary ranges.
 Job seekers exploring compensation trends across roles and locations.
 Installation
-Clone the Repository:
 
-git clone git@github.com:mahlatselelosa/Data-Science-Salary-Insights-Dashboard.git
+## Clone the Repository:
+
+git clone https://github.com/mahlatselelosa/Data-Science-Salary-Insights-Dashboard
 Open the Power BI File:
 The Power BI (.pbix) file can be opened directly in Power BI Desktop.
 
