@@ -1,12 +1,15 @@
 # Data-Science-Salary-Insights-Dashboard
 
-Overview
+## Overview
+
 This Power BI dashboard provides an in-depth look at Data Science job salaries from 2020 to 2024. Using data sourced from Kaggle, the dashboard explores how various factors—such as experience level, employment type, company size, and location—influence compensation trends in the data science industry. The interactive design allows users to filter and analyze salary data based on specific criteria.
 
-Data Source
+## Data Source
+
 The dataset is sourced from Kaggle’s Data Science Job Salaries dataset, which contains information on job titles, experience levels, employment types, salaries, and locations.
 
-Key Visuals
+## Key Visuals
+
 Bar Chart: Sum of Salary by Experience Level
 Line Chart: Salary Trends by Work Year and Experience Level
 Donut Chart: Average Salary in USD by Employment Type
